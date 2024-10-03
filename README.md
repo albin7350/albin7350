@@ -1,7 +1,7 @@
 [![Masterhead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://albin7350.io)
 <h1 align="center">Hi 👋, I'm ALBIN BABY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-< image align ="right" alt ="coding" width ="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+<img align ="right" alt ="coding" width ="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albin7350&label=Profile%20views&color=0e75b6&style=flat" alt="albin7350" /> </p>
 
